@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byweber
-- 👀 I’m interested in IoT and automation
-- 🌱 I’m currently learning Arduino, Raspberry, Python and Zabbix
+- 👀 I’m interested in healthsystem, IoT and automation
+- 🌱 I’m currently learning PACs, Arduino, Raspberry, Python and Zabbix
 - 💞️ I'm looking to collaborate in whatever way I can
 - 📫 How to reach me byweber@gmail.com
 
